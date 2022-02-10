@@ -7,5 +7,5 @@ mean the closest film to your inputed location. Other 10 marks is red and they m
 from 0 second to 3 minutes. The example of the executing my program: open the terminal and print the next: [path-to-python] [path-to-the-program] [year] [latitude]
 [longtitude] [path-to-file-with-films-info]. For example: python3 /Users/igor/Desktop/vscode_intro.py/semester2/Labs/Laba1/main.py 2015 42 30 /Users/igor/Desktop/vscode_intro.py/locations.list :
 <img width="1440" alt="the_map_screenshot" src="https://user-images.githubusercontent.com/96167224/153514707-9faa45ed-a734-4dce-878e-fef2b362d623.png">
-Also every mark has the following information:
+Also every mark has the following information: 
 <img width="515" alt="the_mark_info_screenshot" src="https://user-images.githubusercontent.com/96167224/153514809-e781ab46-b963-4428-8aaa-23fb77c72a74.png">
